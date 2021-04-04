@@ -3,4 +3,4 @@
 <p>Press <b>Space</b> to play</p>.
 <p>Made in C++ with SDL2.</p>
 
-![](Peek 2021-04-04 08-38.gif)
+![](bounce-preview.gif)
